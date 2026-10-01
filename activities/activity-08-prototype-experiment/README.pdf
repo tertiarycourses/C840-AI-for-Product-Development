@@ -1,0 +1,380 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 9 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 729
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 764.5354 cm
+q
+.05098 .188235 .337255 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL 95.15017 0 Td (AI for Product Development) Tj T* -95.15017 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 750.0315 cm
+Q
+q
+1 0 0 1 57.02362 728.0315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 69.07417 0 Td (Activity 08: Run a Prototype Experiment) Tj T* -69.07417 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 709.0315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (C840 \177 v1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 693.6929 cm
+Q
+q
+1 0 0 1 57.02362 674.6929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Evaluate a synthetic agent prototype, classify failures and recommend one causal improvement.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Length 5489
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 772.5354 cm
+q
+.094118 .458824 .768627 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (1. Purpose and deliverable) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 753.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Evaluate a synthetic agent prototype, classify failures and recommend one causal improvement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 734.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Required output: Experiment ledger with before-after scores and decision) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 715.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Acceptance: The change targets one causal layer, the frozen set is preserved, and regression risk is documented.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 689.5354 cm
+q
+.094118 .458824 .768627 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (2. Folder inventory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 670.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (brief.yaml \227 machine-readable scope and decision contract) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 651.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (prompt.md \227 bounded agent instruction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 632.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (data/mock-data.csv and mock-context.json \227 synthetic evidence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 613.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (solution/expected-output.json \227 trainer reference shape) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 594.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (scripts/verify_activity.py \227 deterministic completeness check) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 575.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (evidence/checklist.md \227 learner sign-off record) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 549.5354 cm
+q
+.094118 .458824 .768627 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (3. Detailed procedure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 530.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (1. Read brief.yaml and restate the product decision, output and acceptance rule.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 511.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (2. Inspect the CSV and JSON inputs; list source IDs, dates, contradictions and missing evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 492.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (3. Open prompt.md and select an approved agentic AI builder. Do not add live data or integrations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 473.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (4. Ask the agent to plan the workflow before producing the artifact. Check roles, tools, data and stop conditions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 441.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (5. Execute the activity-specific workflow: Run baseline ) Tj /F3 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( Score outputs ) Tj /F3 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( Classify failure ) Tj /F3 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( Change one layer ) Tj /F3 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL T* (Re-run set ) Tj /F3 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( Decide.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 422.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (6. Require citations to source IDs and label every inference or assumption.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 403.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (7. Review the output at the human gate; compare it with the acceptance rule and reject unsupported claims.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 384.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (8. Save the artifact and evidence inside a learner working copy of this folder.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 365.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (9. Run python3 scripts/verify_activity.py and retain the JSON result.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 346.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (10. Complete evidence/checklist.md and record PASS, REPAIR or STOP with a named owner.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 320.5354 cm
+q
+.094118 .458824 .768627 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (4. Troubleshooting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 301.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Missing citations: require row-level source IDs and rerun only the unsupported section.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 282.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Unstable recommendation: freeze criteria, rerun the same input and perform sensitivity analysis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 263.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Verifier failure: compare the missing file or field with brief.yaml, repair it and rerun.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 244.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Unsafe action proposed: stop, remove live/external access and return the decision to the human owner.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 218.5354 cm
+q
+.094118 .458824 .768627 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (5. Verification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 186.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Pass condition: The change targets one causal layer, the frozen set is preserved, and regression risk is) Tj T* (documented.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 154.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (The deterministic verifier checks package completeness; the human reviewer checks evidence quality and) Tj T* (decision fitness.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+11 0 obj
+<<
+/Author (Tertiary Infotech Academy Pte\056 Ltd\056)
+/CreationDate (D\07220260911031206\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260911031206\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (Activity 08\072 Run a Prototype Experiment)
+/Trapped /False
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000001127 00000 n 
+0000001178 00000 n 
+0000001285 00000 n 
+0000001397 00000 n 
+0000001474 00000 n 
+0000001674 00000 n 
+0000007216 00000 n 
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/Info 11 0 R
+/ID [ <7761c37df3e018739cbaf086c7d0a54e> <7761c37df3e018739cbaf086c7d0a54e> ]
+>>
+startxref
+7590
+%%EOF

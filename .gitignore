@@ -1,0 +1,12 @@
+# WSQ source — read-only input, never committed to the non-WSQ repo
+source-wsq/
+assessment/
+.env
+.DS_Store
+**/.DS_Store
+~$*
+*.zip
+__pycache__/
+*.pyc
+reference/
+archive/
